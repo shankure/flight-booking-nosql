@@ -28,7 +28,7 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: mongo_pass
       MONGO_INITDB_DATABASE: flight_nosql
     ports:
-      - "27017:27017"
+      - "27018:27017"
     volumes:
       - mongo_data:/data/db
     healthcheck:
