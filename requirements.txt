@@ -1,0 +1,19 @@
+# Database drivers
+psycopg2-binary==2.9.12
+pymongo==4.8.0
+ 
+# Data generation
+faker==25.9.2
+pandas==2.2.3
+numpy==2.0.2
+ 
+# Visualisation
+plotly==5.22.0
+nbformat==5.10.4
+jupyter==1.0.0
+ipykernel==6.29.4
+ 
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+colorlog==6.8.2
